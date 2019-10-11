@@ -72,7 +72,7 @@ nunjucks.configure('./views', {
  *                will be removed from the build archives folder!
  * - FORCE_CREATE_ARCHIVE : regenerate an existing archive even if it exists. Warning the new archive
  *                          may change because it will re-download external dependencies
- * - UPDATE_DROPDOWNS : regenerate update dropdowns on old html versions to point to the latest releses
+ * - UPDATE_DROPDOWNS : regenerate update dropdowns on old html versions to point to the latest releases
  * Options (command line)
  * - template name (only this template gets built)
  */
